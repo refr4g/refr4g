@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @refr4g
 - 👀 I’m interested in cyber security and programming.
-- 🌱 I’m Flutter Developer
-- 📫 How to reach me - @rEfR4g#3560 my Discord profile
+- 📫 How to reach me - @refr4g my Discord profile
