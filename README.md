@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @refr4g
-- 👀 I’m interested in cyber security and programming.
-- 📫 How to reach me - @refr4g my Discord profile
+![refr4g's GitHub stats](https://github-readme-stats.vercel.app/api?username=refr4g&show_icons=true&theme=tokyo)
